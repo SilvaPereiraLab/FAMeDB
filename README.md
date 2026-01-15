@@ -27,11 +27,11 @@ Aromatic compounds represent the second most abundant organic class after carboh
 1. Download fasta files to directory with FAMeDB.faa file (rename extensiton of fasta to faa if needed)
 2. Execute Proteinortho, comparing your .faa file(s) with the FunMETAromDB: 
 ```sh
-proteinortho directory_fasta_files/*.faa -identity=40 -conn=0.3 -project=Results_FunMETAromaDB
+proteinortho directory_fasta_files/*.faa -identity=40 -conn=0.3 -project=Results_FAMeDB
 ```
 3. Run the *FAMeDB* script in your terminal or in [RStudio](https://posit.co/download/rstudio-desktop/#download):
 ```sh
-Rscript FunMETAroma.R
+Rscript FAMeDB.R
 ```
 
 
