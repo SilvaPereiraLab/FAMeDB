@@ -1,6 +1,6 @@
-# FunMETAromaDB: A Curated Database of Proteins Involved in Fungal Aromatic Compound Metabolism
+# FAMeDB: A Curated Database of Proteins Involved in Fungal Aromatic Compound Metabolism
 
-![banner](https://github.com/SilvaPereiraLab/FunMETAromaDB/blob/main/FunMETAromaDB_bannerN.png)
+![banner](https://github.com/SilvaPereiraLab/FAMeDB/blob/main/FAMeDB_banner.png)
 
 
 :warning: Datafiles will soon be released! :warning:
@@ -24,12 +24,12 @@ Aromatic compounds represent the second most abundant organic class after carboh
 
 ### Quick Start
 
-1. Download fasta files to directory with FunMETAromaDB.faa file (rename extensiton of fasta to faa if needed)
+1. Download fasta files to directory with FAMeDB.faa file (rename extensiton of fasta to faa if needed)
 2. Execute Proteinortho, comparing your .faa file(s) with the FunMETAromDB: 
 ```sh
 proteinortho directory_fasta_files/*.faa -identity=40 -conn=0.3 -project=Results_FunMETAromaDB
 ```
-3. Run the *FunMETAromaDB* script in your terminal or in [RStudio](https://posit.co/download/rstudio-desktop/#download):
+3. Run the *FAMeDB* script in your terminal or in [RStudio](https://posit.co/download/rstudio-desktop/#download):
 ```sh
 Rscript FunMETAroma.R
 ```
@@ -47,7 +47,7 @@ If you would like to contribute to this database, please see the contributing [g
 
 (Under peer-review submission process)
 
-Tiago M. Martins, Rita C. Carmo, Cristina Silva Pereira. 2025. FunMETAromaDB: A Curated Database of Proteins Involved in Fungal Aromatic Compound Metabolism. to be submited. [doi: GET\_DOI](https://doi.org/GET_DOI)
+Tiago M. Martins, Rita C. Carmo, Cristina Silva Pereira. 2025. FAMeDB: A Curated Database of Proteins Involved in Fungal Aromatic Compound Metabolism. to be submited. [doi: GET\_DOI](https://doi.org/GET_DOI)
 
 
 
