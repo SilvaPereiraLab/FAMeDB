@@ -1,9 +1,9 @@
-# FAMeDB: A Curated Database of Proteins Involved in Fungal Aromatic Compound Metabolism
+# FAMeDB: A Curated Database for the Analysis of Fungal Aromatic Compound Metabolism 
 
-![banner](https://github.com/SilvaPereiraLab/FAMeDB/blob/main/FAMeDB_banner.png)
+![banner](https://github.com/SilvaPereiraLab/FAMeDB/blob/main/FAMeDB_Logo.png)
 
 
-:warning: Datafiles will soon be released! :warning:
+:warning: All Datafiles will soon be released! :warning:
 
 ### Introduction
 
@@ -47,7 +47,7 @@ If you would like to contribute to this database, please see the contributing [g
 
 (Under peer-review submission process)
 
-Tiago M. Martins, Rita C. Carmo, Cristina Silva Pereira. 2025. FAMeDB: A Curated Database of Proteins Involved in Fungal Aromatic Compound Metabolism. to be submited. [doi: GET\_DOI](https://doi.org/GET_DOI)
+Tiago M. Martins, Rita C. Carmo, Cristina Silva Pereira. 2025. FAMeDB: A Curated Database for the Analysis of Fungal Aromatic Compound Metabolism. to be submited. [doi: GET\_DOI](https://doi.org/GET_DOI)
 
 
 
