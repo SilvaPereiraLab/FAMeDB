@@ -1,0 +1,350 @@
+Mechanism,Compound,Superpathway,Pathway,Protein_ID,Gene,central_pathway,code_compound,code_pathway
+Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",Q5BGJ9,AN0331,Yes,1235teHB,1235teHB-p
+Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",C8V4M5,AN10530,Yes,1235teHB,1235teHB-p
+Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",AN12484,AN12484,Yes,1235teHB,1235teHB-p
+Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",Q0CN79,ATEG_04855,Yes,1235teHB,1235teHB-p
+Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",Q0CN78,ATEG_04856,Yes,1235teHB,1235teHB-p
+Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",ATEG_08221-22_new,ATEG_08221-22_new,Yes,1235teHB,1235teHB-p
+Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",A0A316U3U2,BCV69DRAFT_314223,Yes,1235teHB,1235teHB-p
+Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",A0A316U2J1,BCV69DRAFT_284635,Yes,1235teHB,1235teHB-p
+Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",A0A316U7V3,BCV69DRAFT_284636,Yes,1235teHB,1235teHB-p
+Ae_Aerobic,3-Hydroxyanthranilate,3-Hydroxyanthranilate pathway,3-Hydroxyanthranilate pathway,ATEG_10009-10,3HAO,Yes,3HAO,3HAO-p
+Ae_Aerobic,3-Hydroxyanthranilate,3-Hydroxyanthranilate pathway,3-Hydroxyanthranilate pathway,Q0C8H4,ACMSD,Yes,3HAO,3HAO-p
+Ae_Aerobic,3-Hydroxyanthranilate,3-Hydroxyanthranilate pathway,3-Hydroxyanthranilate pathway,Q0C8H5,AMSDH,Yes,3HAO,3HAO-p
+Ae_Aerobic,3-Hydroxyanthranilate,3-Hydroxyanthranilate pathway,3-Hydroxyanthranilate pathway,Q0CKN9,ATEG_05745,Yes,3HAO,3HAO-p
+Ae_Aerobic,3-Hydroxyanthranilate,3-Hydroxyanthranilate pathway,3-Hydroxyanthranilate pathway,P47096,BNA1,Yes,3HAO,3HAO-p
+Ae_Aerobic,3-Hydroxyanthranilate,3-Hydroxyanthranilate pathway,3-Hydroxyanthranilate pathway,Q4WZC3,bna1-2,Yes,3HAO,3HAO-p
+Ae_Aerobic,3-Hydroxyanthranilate,3-Hydroxyanthranilate pathway,3-Hydroxyanthranilate pathway,F4P3F1,BNA1_BATDEDRAFT_30049,Yes,3HAO,3HAO-p
+Ae_Aerobic,3-Hydroxyanthranilate,3-Hydroxyanthranilate pathway,3-Hydroxyanthranilate pathway,F4P9E8,BATDEDRAFT_30558,Yes,3HAO,3HAO-p
+Ae_Aerobic,3-Hydroxyanthranilate,3-Hydroxyanthranilate pathway,3-Hydroxyanthranilate pathway,F4P9E9,BATDEDRAFT_35818,Yes,3HAO,3HAO-p
+Ae_Aerobic,3-Hydroxyanthranilate,3-Hydroxyanthranilate pathway,3-Hydroxyanthranilate pathway,F4PAK6,BATDEDRAFT_37369,Yes,3HAO,3HAO-p
+Ae_Aerobic,3-Oxoadipate,3-Oxoadipate pathway,3-Oxoadipate pathway (common),C8V5Q9,AN10495,Yes,3OXO,3OXO-c
+Ae_Aerobic,3-Oxoadipate,3-Oxoadipate pathway,3-Oxoadipate pathway (common),Q5B621,AN4009,Yes,3OXO,3OXO-c
+Ae_Aerobic,3-Oxoadipate,3-Oxoadipate pathway,3-Oxoadipate pathway (common),Q5B182,AN5698,Yes,3OXO,3OXO-c
+Ae_Aerobic,3-Oxoadipate,3-Oxoadipate pathway,3-Oxoadipate pathway (common),NRRL3_01526,kctA,Yes,3OXO,3OXO-c
+Ae_Aerobic,3-Oxoadipate,3-Oxoadipate pathway,3-Oxoadipate pathway (common),NRRL3_01886,kstA,Yes,3OXO,3OXO-c
+Ae_Aerobic,3-Oxoadipate,3-Oxoadipate pathway,3-Oxoadipate pathway (common),Q59Z19,OSC1,Yes,3OXO,3OXO-c
+Ae_Aerobic,3-Oxoadipate,3-Oxoadipate pathway,3-Oxoadipate pathway (common),Q5AD21,POT1-2,Yes,3OXO,3OXO-c
+Ae_Aerobic,3-Oxoadipate,3-Oxoadipate pathway,3-Oxoadipate pathway (common),G8BEF7,OCT1,Yes,3OXO,3OXO-c
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,Q5B6D5,AN3895,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,Q5B5W9,AN4061,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,AN4531b,AN4531b,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,Q5B4J8,AN4532,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,NRRL3_04787,crcA,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,A0A2H3GAL0,FG03667,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,P86029,HQD2,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,Q5AMS5,MCI1,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,A0A1D8PLG7,MLI1,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,Q5AMS7,OEL1,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,A0A084G3Y6,SAPIO_CDS6464,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,A0A084G3Y7,SAPIO_CDS6465,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,A0A084FYU9,SAPIO_CDS8719,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,A0A084FYV0,SAPIO_CDS8720,Yes,CAT,CAT-b
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,J4UJS3,A1Q1_06758,Yes,CAT,CAT-b(B)
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,J6F4W4,A1Q1_06757,Yes,CAT,CAT-b(B)
+Ae_Aerobic,Catechol,3-Oxoadipate pathway catechol branch,3-Oxoadipate pathway catechol branch,J5RDJ6,A1Q1_06756,Yes,CAT,CAT-b(B)
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,Q5BBG6,AN2114,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,P80402,AO090005000447,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,NRRL3_04385,dhbA,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,A2QMG8,dhbD_Aspnc,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,Q5AYA7,dhbD,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,A0A0A1E7Z2,Efe-shyA,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,I1RIL9,FGRAMPH1_01T13395,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,I1RXJ0,FGSG_09061,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,XP_046089355,LeOMT1,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,XP_046082518,LeOMT2,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,XP_046081978,LeOMT3,No,A,CAT-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway catechol branch peripheral,NRRL3_09723,shyA,No,A,CAT-bp
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,Q5BFB6,AN0764,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,Q5B2Q2,AN5178,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,M2PH20,GsHDX1,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,M2RFP1,GsMAR1,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,G8BJM5,HDX1,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,Q59Z18,HQD1,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,A2QAP8,hqdA,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,NRRL3_02644,NRRL3_02644,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,NRRL3_05330,NRRL3_05330,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,A0A084FWX4,SAPIO_CDS9497,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,A0A084FWX5,SAPIO_CDS9498,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,XP_008036115,TvHDX1,Yes,HQ,HQ-b
+Ae_Aerobic,Hydroxyquinol,3-Oxoadipate pathway hydroxyquinol branch,3-Oxoadipate pathway hydroxyquinol branch,XP_008034464,TvMAR1,Yes,HQ,HQ-b
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway hydroxyquinol branch peripheral,M2QGN5,GsMNX1,No,A,HQ-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway hydroxyquinol branch peripheral,M2QQH2,GsMNX3,No,A,HQ-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway hydroxyquinol branch peripheral,G8B709,MNX1,No,A,HQ-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway hydroxyquinol branch peripheral,G8BGH1,MNX3,No,A,HQ-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway hydroxyquinol branch peripheral,XP_008038747,TvMNX3,No,A,HQ-bp
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,C8V4N3,AN10520,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,Q5BE79,AN1151,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,Q5B2J8,AN5232,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,Q5AT14,AN8566,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,NRRL3_01409,chdA,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,NRRL3_02586,cmcA,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,P38677,NCU04071,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,NRRL3_00837,NRRL3_00837,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,A0A0D3QFR8,pcaB3,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,NRRL3_01405,pcrA,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,A2R1P9,prcA,Yes,PTC,PTC-b
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,A0A067NHM4,PLEOSDRAFT_1048986,Yes,PTC,PTC-b(B)
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,A0A067N613,PLEOSDRAFT_1049235,Yes,PTC,PTC-b(B)
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,A0A067N5I1,PLEOSDRAFT_1068280,Yes,PTC,PTC-b(B)
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,A0A067N8I4,PLEOSDRAFT_41780,Yes,PTC,PTC-b(B)
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,M7XLR2,RHTO_05019,Yes,PTC,PTC-b(B)
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,M7X416,RHTO_05020,Yes,PTC,PTC-b(B)
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,M7X3E6,RHTO_05021,Yes,PTC,PTC-b(B)
+Ae_Aerobic,Protocatechuate,3-Oxoadipate pathway protocatechuate branch,3-Oxoadipate pathway protocatechuate branch,M7WW75,RHTO_05022,Yes,PTC,PTC-b(B)
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway protocatechuate branch peripheral,C8VBV0,AN10952,No,A,PTC-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway protocatechuate branch peripheral,P17549,bphA_Aspng,No,A,PTC-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway protocatechuate branch peripheral,C8VBT1,BzuA,No,A,PTC-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway protocatechuate branch peripheral,Q7S860,cao-1,No,A,PTC-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway protocatechuate branch peripheral,Q4H2B4,PcCYP1f,No,A,PTC-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway protocatechuate branch peripheral,A2QGH7,phhA,No,A,PTC-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway protocatechuate branch peripheral,NRRL3_08551,PhhA,No,A,PTC-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,3-Oxoadipate pathway protocatechuate branch peripheral,A0A167KUL3,VibMO1,No,A,PTC-bp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Aminobenzoates metabolism,Q92402,Q92402,No,A,AmBz-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,A0AAN6BT69,ALT_4121,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,Q06408,ARO10,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,P53090,ARO8_Yeast,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,Q04052,ARO80,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,P38840,ARO9,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,Q5BCQ7,aroG,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,P10248,PAL_Rhomi,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,P11544,PAL_Rhoto,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,P32452,PHA2,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,P00899,TRP2,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,O94582,trp3,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,P20049,TYR1,No,AA,ARO-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Aromatic amino acids metabolism,A0A336U966,tyrP,No,AA,ARO-m
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,Q0CDL4,ATEG_08220,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,NRRL3_04659,phyA,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,C8VPZ4,AN0876,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,Q5B4F4,AN4576,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,ATEG_05726b_new,ATEG_05726b_new,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,Q0CBV3,ATEG_08831,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,Q5BFT5,cprA,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,F1SY49,CYP53D2v1,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,F1SY83,CYP53D2v2,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,Q7SIC2,Q7SIC2,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,A0A084FYU8,SAPIO_CDS8718,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,P0CT50,sdc,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Benzoates peripheral pathways,A0A316U0W4,BCV69DRAFT_273015,No,A,Bz-pp
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,A2QUC2,An09g05130,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,A0A397HQ89,ankC,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,A0A2U8U2L6,asL1,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,Q0CJ62,atA,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,A0A3G9JYJ6,cph,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,P87064,dodA,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,P0DUM0,hkm12,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,P0DUL2,hkm4,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,P0DUL3,hkm5,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,P0DUQ0,hkm6,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,P0DUL5,hkm7,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,P0DUL6,hkm8,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,A0AAN4PAE6,lenB,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,J4VWM7,OpS4,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,Q0D1P2,terD,No,A,Synth-p
+Ae_Aerobic,Aromatic,Biosynthetic pathways,Biosynthetic pathways,G2X4M1,VdIsc1,No,A,Synth-p
+Ae_Aerobic,CoA-dependent beta oxidative,Cinnamic acids CoA-dependent beta-oxidative pathway,Cinnamic acids CoA-dependent beta-oxidative pathway,NRRL3_00672,foxA,No,CIN,CIN-beta
+Ae_Aerobic,CoA-dependent beta oxidative,Cinnamic acids CoA-dependent beta-oxidative pathway,Cinnamic acids CoA-dependent beta-oxidative pathway,NRRL3_05989,hcsA,No,CIN,CIN-beta
+Ae_Aerobic,CoA-dependent beta oxidative,Cinnamic acids CoA-dependent beta-oxidative pathway,Cinnamic acids CoA-dependent beta-oxidative pathway,NRRL3_05990,katA,No,CIN,CIN-beta
+Ae_Aerobic,CoA-dependent beta oxidative,Cinnamic acids CoA-dependent beta-oxidative pathway,Cinnamic acids CoA-dependent beta-oxidative pathway,NRRL3_00621,theA,No,CIN,CIN-beta
+Ae_Aerobic,CoA-dependent beta oxidative,Cinnamic acids CoA-dependent beta-oxidative pathway,Cinnamic acids CoA-dependent beta-oxidative pathway,NRRL3_01539,theB,No,CIN,CIN-beta
+Ae_Aerobic,CoA-dependent beta oxidative,Cinnamic acids CoA-dependent beta-oxidative pathway,Cinnamic acids CoA-dependent beta-oxidative pathway,NRRL3_02735,theC,No,CIN,CIN-beta
+Ae_Aerobic,CoA-dependent beta oxidative,Cinnamic acids CoA-dependent beta-oxidative pathway,Cinnamic acids CoA-dependent beta-oxidative pathway,NRRL3_06009,theD,No,CIN,CIN-beta
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A0A2Z5YRQ9,A1PAD,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,P25377,ADH7,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,NRRL3_08296,cdcA,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A2QN56,chlE_Aspnc,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A7YN26,chlE,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,Q7LLW9,dmdh,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A0A6C0PI29,fae1,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A2QSY5,faeA_Aspnc,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,Q2UNW5,faeA_Aspor,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,Q9P979,faeA_Aspaw,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,Q8WZI8,faeB,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,Q2UP89,faeB-1,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,B8LV47,faeC,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,Q2UMX6,FaeB-2,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,B9WJ66,FDC1_Candc,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,Q03034,FDC1_Yeast,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A2QHE5,fdc1_ohbA1,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A0A0K8JKL5,iFPad,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,U5XIR0,lacB3,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,NRRL3_08440,NRRL3_08440,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,P32953,P32953,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,P33751,PAD1,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,NRRL3_08298,padA,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A2QHE3,padA1,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A2R0P6,padA2,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A2QSX4,padA3,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,A0A0A0WBD5,padB3,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Cinnamic acids peripheral pathways,NRRL3_08297,sdrA,No,A,CIN-pp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,Q4W9H6,adhG,No,A,GT-lpp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,Q4W9G9,mfsG,No,A,GT-lpp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,A0A0D1E6L2,RCO1,No,A,GT-lpp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,A0A384JIP2,rco1_Botfb,No,A,GT-lpp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,Q2HHS4,rco1_Chagb,No,A,GT-lpp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,Q4W9H5,sahG,No,A,GT-lpp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,A0A084GG45,SAPIO_CDS0602,No,A,GT-lpp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,A0A084GG47,SAPIO_CDS0604,No,A,GT-lpp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,Q4W9H1,sdoG,No,A,GT-lpp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,A0A1Y2APR1,BCR39DRAFT_486220,No,A,GT-lpp
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate like-pathway peripheral pathways,A0A1Y2APP5,BCR39DRAFT_546366,No,A,GT-lpp
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,G8BL06,CPAR2_704360,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,G8BL07,CPAR2_704370,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,Q4W9H2,ctfG,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,G8BL05,FPH1,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,Q4W9H0,fphG,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,Q4W9H3,gdoG,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,G8BL04,GDX1,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,G8BL03,HBT1,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,A0A084GG46,SAPIO_CDS0603,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,A0A084GG48,SAPIO_CDS0605,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,A0AAD7UY59,O0I10_009696,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,A0AAD7UWE2,O0I10_009693,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,A0AAD7UYY2,O0I10_009692,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,A0A1Y2APV2,BCR39DRAFT_546402,Yes,GT,GT-p
+Ae_Aerobic,Gentisate,Gentisate pathway,Gentisate pathway,A0A1Y2AQH5,BCR39DRAFT_546370,Yes,GT,GT-p
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Gentisate peripheral pathways,G8BL02,MNX2,No,A,GT-pp
+Ae_Aerobic,Homogentisate,Homogentisate pathway,Homogentisate pathway,Q00770,fahA,Yes,HGT,HGT-p
+Ae_Aerobic,Homogentisate,Homogentisate pathway,Homogentisate pathway,Q00667,hmgA,Yes,HGT,HGT-p
+Ae_Aerobic,Homogentisate,Homogentisate pathway,Homogentisate pathway,Q4WHT9,hmgA_Aspfu,Yes,HGT,HGT-p
+Ae_Aerobic,Homogentisate,Homogentisate pathway,Homogentisate pathway,O43123,maiA,Yes,HGT,HGT-p
+Ae_Aerobic,Homogentisate,Homogentisate pathway,Homogentisate pathway,I2G5G3,UHOR_02141,Yes,HGT,HGT-p
+Ae_Aerobic,Homogentisate,Homogentisate pathway,Homogentisate pathway,I2G5F9,UHOR_02135,Yes,HGT,HGT-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Homogentisate peripheral pathways,Q5BC32,hmgX,No,AA,HGT-pp
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Homogentisate peripheral pathways,C8VKK0,hpdA,No,AA,HGT-pp
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Homogentisate peripheral pathways,O42764,HPPD_Zymtr,No,AA,HGT-pp
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Homogentisate peripheral pathways,Q4WHU1,hppD,No,AA,HGT-pp
+Ae_Aerobic,Aromatic,Phenylacetates peripheral pathways,Homogentisate peripheral pathways,P87208,pdcA,No,A,HGT-pp
+Ae_Aerobic,Aromatic,Phenylacetates peripheral pathways,Homogentisate peripheral pathways,P51844,pdcB,No,A,HGT-pp
+Ae_Aerobic,Aromatic,Phenylacetates peripheral pathways,Homogentisate peripheral pathways,Q9Y7G5,phacA,No,A,HGT-pp
+Ae_Aerobic,Aromatic,Phenylacetates peripheral pathways,Homogentisate peripheral pathways,Q078T0,phacB,No,A,HGT-pp
+Ae_Aerobic,Aromatic,Phenylacetates peripheral pathways,Homogentisate peripheral pathways,I2G5G0,UHOR_02138,No,A,HGT-pp
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Indole-3-pyruvic acid pathway,Q7RYT1,ahd-2,No,AA,IPA-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Indole-3-pyruvic acid pathway,Q7S275,ahd-3,No,AA,IPA-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Indole-3-pyruvic acid pathway,V5IRM1,aro8,No,AA,IPA-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Indole-3-pyruvic acid pathway,Q1K5E9,cbs-3,No,AA,IPA-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Indole-3-pyruvic acid pathway,P33287,cfp,No,AA,IPA-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Indole-3-pyruvic acid pathway,Q7S5H6,gdc-3,No,AA,IPA-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Indole-3-pyruvic acid pathway,Q1K874,lao-2,No,AA,IPA-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Indole-3-pyruvic acid pathway,Q1K7B9,mox-2,No,AA,IPA-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Indole-3-pyruvic acid pathway,Q7RWL7,naa-2,No,AA,IPA-p
+Ae_Aerobic,Methoxyhidroquinone,Methoxyhydroquinone pathway,Methoxyhydroquinone pathway,NRRL3_10111,mhdA,Yes,MeH2Q,MeH2Q-p
+Ae_Aerobic,Methoxyhidroquinone,Methoxyhydroquinone pathway,Methoxyhydroquinone pathway,NRRL3_04956,NRRL3_04956,Yes,MeH2Q,MeH2Q-p
+Ae_Aerobic,Methoxyhidroquinone,Methoxyhydroquinone pathway,Methoxyhydroquinone pathway,NRRL3_10110,omeA,Yes,MeH2Q,MeH2Q-p
+Ae_Aerobic,Methoxyhidroquinone,Methoxyhydroquinone pathway,Methoxyhydroquinone pathway,Phchr4_2_6344326,PcHGD1,Yes,MeH2Q,MeH2Q-p
+Ae_Aerobic,Methoxyhidroquinone,Methoxyhydroquinone pathway,Methoxyhydroquinone pathway,Phchr4_2_6344291,PcHGD2,Yes,MeH2Q,MeH2Q-p
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,P56216,vaoA,No,A,MeH2Q-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,NRRL3_03887,vdhA,No,A,MeH2Q-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,NRRL3_09897,vhyA,No,A,MeH2Q-pp
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,Q5AYW2,hxnM,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,C8V0K0,hxnN,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,C8VJW1,hxnP,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,C8VJW0,hxnR,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,A0A1U8QNG8,hxnS,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,A0A1U8QTA2,hxnT,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,C8VK33,hxnV,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,C8VK32,hxnW,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,Q5ARB9,hxnX,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,C8VK14,hxnY,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,C8VK15,hxnZ,No,NIC,Nic-m
+Ae_Aerobic,Nicotinate,Nicotinate metabolism,Nicotinate metabolism,P53322,TNA1,No,NIC,Nic-m
+Ae_Aerobic,Aromatic,Others,Others,I1RAG2,FgPhm1,No,A,others
+Ae_Aerobic,Aromatic,Phenols peripheral pathways,Phenols peripheral pathways,Q5AWB2,AN7418,No,A,Ph-pp
+Ae_Aerobic,Aromatic,Phenols peripheral pathways,Phenols peripheral pathways,Q59X73,PHH1,No,A,Ph-pp
+Ae_Aerobic,Aromatic,Phenols peripheral pathways,Phenols peripheral pathways,A0A1D8PTL1,PHH2,No,A,Ph-pp
+Ae_Aerobic,Aromatic,Phenols peripheral pathways,Phenols peripheral pathways,P15245,pHHY,No,A,Ph-pp
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Phenylalanine metabolism,L7PB94,DHPR,No,AA,PHE-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Phenylalanine metabolism,L7PAC3,PAH-1,No,AA,PHE-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Phenylalanine metabolism,L7PAA8,PAH-2,No,AA,PHE-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Phenylalanine metabolism,L7PA84,PCD,No,AA,PHE-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Phenylalanine metabolism,Q30KV5,phenA,No,AA,PHE-m
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,Q59Z17,DQD1,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,NRRL3_11037,dqdA,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,NRRL3_11035,dsdA,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,P11637,qa-1s,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,P05195,qa-2,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,P11635,qa-3,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,P07046,qa-4,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,NRRL3_08520,qdhA,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,NRRL3_11036,qupA,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,NRRL3_05631,qupB,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,P10563,qutA,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,P25415,qutB,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,Q5BE90,qutC,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,P15325,qutD,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,P05147,qutE2,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,P25416,qutG,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,G5EB60,qutH,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,Q00784,qutR,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,NRRL3_11038,qutR_Aspnig,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic catabolism,NRRL3_11039,qutX,No,QA,QA-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic-like catabolism,Q4WYZ4,AFUA_3G14790,No,QA,QAlike-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic-like catabolism,Q4WYZ6,AFUA_3G14800,No,QA,QAlike-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic-like catabolism,Q4WYZ7,AFUA_3G14810,No,QA,QAlike-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic-like catabolism,Q4WYZ8,AFUA_3G14820,No,QA,QAlike-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic-like catabolism,Q4WYZ9,AFUA_3G14830,No,QA,QAlike-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic-like catabolism,Q4WZ00,AFUA_3G14840,No,QA,QAlike-c
+Ae_Aerobic,Quinic acid,Benzoates peripheral pathways,Quinic acic-like catabolism,Q4WZ01,qutE2_Aspfu,No,QA,QAlike-c
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,Q12640,aro-2,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,P80576,aro-8,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,P08566,ARO1_Yeast,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,Q5AME2,ARO1_Canal,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,Q9P7R0,aro1,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,P28777,ARO2,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,P14843,ARO3,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,P32449,ARO4,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,A0A0S0FTT9,ARO7_Tripa,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,P32178,ARO7_Yeast,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,G5EB37,aroC,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,G5EB34,aroF,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,B0XRM8,aroM,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,A0A5B8NIM2,CMU,No,AA,Shi-p
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Shikimate pathway,Q9P4D8,HARO7,No,AA,Shi-p
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Tannins and gallate metabolism,A0A060TAG5,AgDC1,No,A,GA-c
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Tannins and gallate metabolism,Q2UII1,AO090023000047,No,A,GA-c
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Tannins and gallate metabolism,P78581,AO090103000074,No,A,GA-c
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Tannins and gallate metabolism,A2RAL4,bglA,No,A,GA-c
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Tannins and gallate metabolism,NRRL3_08275,tanR,No,A,GA-c
+Ae_Aerobic,Aromatic,Benzoates peripheral pathways,Tannins and gallate metabolism,NRRL3_08276,tanX,No,A,GA-c
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,A0A2I2F272,acdA,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,A0A2I2F284,acdD,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,B7STY2,atrD,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,P47125,BNA2,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,P47039,BNA3,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,P38169,BNA4,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,Q05979,BNA5,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,Q5BGU9,ivoB,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,Q7S332,kyn-1,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,Q7RXY2,kyn-2,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,A0A6G9KIF9,nanC,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,Q7S3C9,nic-3,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,P0DUR8,qulI,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,P38085,TAT1,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,P38967,TAT2,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,Q0CG33,tpzB,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,P00908,trp-1,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,P13228,trp-3,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,P00931,TRP5,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,Q5AZP9,trpB,No,AA,TRP-m
+Ae_Aerobic,Aromatic amino acids,Aromatic amino acids metabolism,Tryptophan metabolism,P06531,trpC,No,AA,TRP-m
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,P18900,COQ1,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,P32378,COQ2_Yeast,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,Q10252,COQ2,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,P27680,COQ3,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,O13525,COQ4,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,P49017,COQ5,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,P53318,COQ6,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,O74826,COQ7,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,P41735,COQ7_Yeast,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,P27697,COQ8_Yeast,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,Q92338,COQ8,No,COQ,COQ-p
+Ae_Aerobic,Ubiquinone,Ubiquinone biosynthesis,Ubiquinone biosynthesis,Q05779,COQ9,No,COQ,COQ-p
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,Phchr4_2_6226447,Pc-ALDH1,No,A,MeH2Q-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,Phchr4_2_6217600,Pc-ALDH2,No,A,MeH2Q-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,M2PHA3,Cs-AldhA,No,A,MeH2Q-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,M2QTM7,Cs-AldhE,No,A,MeH2Q-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,M2QMV2,Cs-AldhH,No,A,MeH2Q-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,M2RBN8,Cs-AldhI,No,A,MeH2Q-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,M2QTS0,Cs-AldhJ,No,A,MeH2Q-pp
+Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,M2RUL9,Cs-AldhK,No,A,MeH2Q-pp
