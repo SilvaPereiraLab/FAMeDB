@@ -13,7 +13,7 @@ library(ggplot2)
 library(reshape2)
 
 # Read the FAMeDB_pathways.csv file
-all_pathways <- read.csv("FAMeDB_pathways_2026_01_19.csv", stringsAsFactors = FALSE)
+all_pathways <- read.csv("FAMeDB_pathways.csv", stringsAsFactors = FALSE)
 
 # Ensure that there are no leading or trailing whitespaces in the Protein_ID column
 all_pathways$Protein_ID <- trimws(all_pathways$Protein_ID)
@@ -27,22 +27,22 @@ colnames(df_ortho)[1:3] <- c("ColumnA", "ColumnB", "ColumnC")
 # Sort all columns of df_ortho alphabetically based on their names.
 df_ortho <- df_ortho[, sort(colnames(df_ortho))]
 
-# Adjust the header to have the 'FAMeDB_2026_01_19.faa' column at the beginning
-df_ortho <- df_ortho[, c(grep("FAMeDB_2026_01_19.faa", colnames(df_ortho)),
-                         setdiff(seq_along(df_ortho), grep("FAMeDB_2026_01_19.faa", colnames(df_ortho))))]
+# Adjust the header to have the 'FAMeDB.faa' column at the beginning
+df_ortho <- df_ortho[, c(grep("FAMeDB.faa", colnames(df_ortho)),
+                         setdiff(seq_along(df_ortho), grep("FAMeDB.faa", colnames(df_ortho))))]
 
 # Remove specific columns
 columns_to_remove <- c("ColumnA", "ColumnB", "ColumnC")
 df_selected <- df_ortho[, !(colnames(df_ortho) %in% columns_to_remove)]
 
-## Remove lines containing "*" in the "FAMeDB_2026_01_19.faa" column
-df_selected <- df_selected[!grepl("\\*", df_selected$FAMeDB_2026_01_19.faa), ]
+## Remove lines containing "*" in the "FAMeDB.faa" column
+df_selected <- df_selected[!grepl("\\*", df_selected$FAMeDB.faa), ]
 
 ## Save the selected data in a new file
 write.table(df_selected, file = "0_table_FAMeDB_raw_hits.tsv", sep = "\t", quote = FALSE, row.names = FALSE)
 
-# Split the 'FAMeDB_2026_01_19.faa' column into two new columns
-split_columns <- str_split_fixed(df_selected$FAMeDB_2026_01_19.faa, "\\|", 2)
+# Split the 'FAMeDB.faa' column into two new columns
+split_columns <- str_split_fixed(df_selected$FAMeDB.faa, "\\|", 2)
 
 # Assign names to the new columns
 colnames(split_columns) <- c("Protein_ID", "Protein_desc")
@@ -51,7 +51,7 @@ colnames(split_columns) <- c("Protein_ID", "Protein_desc")
 df_selected <- cbind(df_selected, split_columns)
 
 # Remove the original column
-df_selected <- df_selected[, !grepl("FAMeDB_2026_01_19.faa", colnames(df_selected))]
+df_selected <- df_selected[, !grepl("FAMeDB.faa", colnames(df_selected))]
 
 # Remove "Protein_desc" column
 df_selected <- df_selected[, !grepl("Protein_desc", colnames(df_selected))]
@@ -509,4 +509,5 @@ ggplot(df_counts_aggregated_by_pathway_3_melted, aes(x = Genome, y = Pathway, si
   ) +
   guides(fill = guide_legend(override.aes = list(size = 6))) # Adjust the size value as needed for legend of compounds
 dev.off()
+
 
