@@ -4,13 +4,17 @@
 # Set the path to the directory with the proteinortho file and the FAMeDB pathways table
 # setwd("Path_to_your_directory_files")
 
-library(stringr)
-library(dplyr)
-library(readr)
-library(scales)
-library(svglite)
-library(ggplot2)
-library(reshape2)
+# List of required packages
+packages <- c("stringr", "dplyr", "readr", "scales", "svglite", "ggplot2", "reshape2")
+
+# Identify which packages are not installed
+new_packages <- packages[!(packages %in% installed.packages()[, "Package"])]
+
+# Install missing packages
+if(length(new_packages)) install.packages(new_packages)
+
+# Load all packages
+lapply(packages, library, character.only = TRUE)
 
 # Read the FAMeDB_pathways.csv file
 all_pathways <- read.csv("FAMeDB_pathways.csv", stringsAsFactors = FALSE)
@@ -509,5 +513,6 @@ ggplot(df_counts_aggregated_by_pathway_3_melted, aes(x = Genome, y = Pathway, si
   ) +
   guides(fill = guide_legend(override.aes = list(size = 6))) # Adjust the size value as needed for legend of compounds
 dev.off()
+
 
 
