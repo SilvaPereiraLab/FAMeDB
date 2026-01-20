@@ -44,10 +44,9 @@ If you would like to contribute to this database, please see the contributing [g
 ## Citations
 
 
-
 (Under peer-review submission process)
 
-Tiago M. Martins, Rita C. Carmo, Cristina Silva Pereira. 2025. FAMeDB: A Curated Database for the Analysis of Fungal Aromatic Compound Metabolism. to be submited. [doi: GET\_DOI](https://doi.org/GET_DOI)
+Tiago M. Martins, Rita C. Carmo, Cristina Silva Pereira. 2026. FAMeDB: A Curated Database for the Analysis of Fungal Aromatic Compound Metabolism. BioRxiv. [doi: 10.64898/2026.01.19.700319](https://doi.org/10.64898/2026.01.19.700319)
 
 
 
@@ -57,4 +56,5 @@ Funding from Fundação para a Ciência e a Tecnologia ([FCT](https://www.fct
 
 TMM is grateful for the working contract (2023.11076.TENURE.076) financed by national funds under the FCT-Tenure Program and RC is grateful to FCT funding for the PhD scholarship 2024.0076.BDANA.
 
+We acknowledge André Cairrão for the design of FAMeDB logo.
 
