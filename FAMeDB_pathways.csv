@@ -1,4 +1,4 @@
-Mechanism,Compound,Superpathway,Pathway,Protein_ID,Gene,central_pathway,code_compound,code_pathway
+Mechanis,Compound,Superpathway,Pathway,Protein_ID,Gene,central_pathway,code_compound,code_pathway
 Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",Q5BGJ9,AN0331,Yes,1235teHB,1235teHB-p
 Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",C8V4M5,AN10530,Yes,1235teHB,1235teHB-p
 Ae_Aerobic,"1,2,3,5-Tetrahydroxybenzene","1,2,3,5-Tetrahydroxybenzene pathway","1,2,3,5-Tetrahydroxybenzene pathway",AN12484,AN12484,Yes,1235teHB,1235teHB-p
@@ -348,3 +348,4 @@ Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathw
 Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,M2RBN8,Cs-AldhI,No,A,MeH2Q-pp
 Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,M2QTS0,Cs-AldhJ,No,A,MeH2Q-pp
 Ae_Aerobic,Aromatic,Cinnamic acids peripheral pathways,Methoxyhydroquinone pathway peripheral,M2RUL9,Cs-AldhK,No,A,MeH2Q-pp
+
