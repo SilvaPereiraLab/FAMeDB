@@ -6,11 +6,11 @@ By participating in this project, you agree to abide by its terms and maintain a
 
 ## Table of Contents
 
-1. [How Can I Contribute?](https://www.google.com/search?q=%23how-can-i-contribute)
-2. [Reporting Bugs](https://www.google.com/search?q=%23reporting-bugs)
-3. [Suggesting Enhancements](https://www.google.com/search?q=%23suggesting-enhancements)
-4. [Data Contributions](https://www.google.com/search?q=%23data-contributions)
-5. [Pull Request Process](https://www.google.com/search?q=%23pull-request-process)
+1. [How Can I Contribute?](#how-can-i-contribute)
+2. [Reporting Bugs](#reporting-bugs)
+3. [Suggesting Enhancements](#suggesting-enhancements)
+4. [Data Contributions](#data-contributions)
+5. [Pull Request Process](#pull-request-process)
 
 
 ---
