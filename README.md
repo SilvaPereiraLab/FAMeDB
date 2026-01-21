@@ -36,7 +36,7 @@ Rscript FAMeDB.R
 
 ## Contributions and Support
 
-If you would like to contribute to this database, please see the contributing [guidelines](link).
+If you would like to contribute to this database, please see the contributing [guidelines](https://github.com/SilvaPereiraLab/FAMeDB/blob/main/CONTRIBUTING.md).
 
 
 
