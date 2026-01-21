@@ -3,8 +3,6 @@
 ![banner](https://github.com/SilvaPereiraLab/FAMeDB/blob/main/FAMeDB_Logo.png)
 
 
-:warning: All Datafiles will soon be released! :warning:
-
 ### Introduction
 
 
