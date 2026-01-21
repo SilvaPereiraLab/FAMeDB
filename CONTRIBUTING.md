@@ -47,7 +47,7 @@ Since FAMeDB is a specialized database, data integrity is paramount. If you wish
 
 ---
 
-## Pull Request Process
+### Pull Request Process
 
 1. **Fork the repository** and create your branch from `main`.
 2. If you've added code that should be tested, add tests.
