@@ -2,6 +2,7 @@
 
 ![banner](https://github.com/SilvaPereiraLab/FAMeDB/blob/main/FAMeDB_Logo.png)
 
+⚠️ FAMeDB will be updated on a regular basis ⚠️
 
 ### Introduction
 
