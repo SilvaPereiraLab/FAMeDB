@@ -11,7 +11,7 @@ By participating in this project, you agree to abide by its terms and maintain a
 3. [Suggesting Enhancements](#suggesting-enhancements)
 4. [Data Contributions](#data-contributions)
 5. [Pull Request Process](#pull-request-process)
-
+6. [Contacts](#contacts)
 
 ---
 
@@ -59,7 +59,7 @@ Since FAMeDB is a specialized database, data integrity is paramount. If you wish
 
 ---
 
-## Contact
+## Contacts
 
 If you have questions that aren't addressed here, please contact the maintainers via [email](tiagomartins@itqb.unl.pt) or the [Silva-Pereira Lab](https://www.itqb.unl.pt/research/biology/applied-and-environmental-mycology) organization page or open an issue for discussion.
 
