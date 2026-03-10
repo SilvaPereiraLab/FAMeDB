@@ -5,7 +5,7 @@
 # setwd("Path_to_your_directory_files")
 
 # List of required packages
-packages <- c("stringr", "dplyr", "readr", "scales", "svglite", "ggplot2", "reshape2")
+packages <- c("tidyverse", "scales", "svglite", "reshape2")
 
 # Identify which packages are not installed
 new_packages <- packages[!(packages %in% installed.packages()[, "Package"])]
