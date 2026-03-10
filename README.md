@@ -33,6 +33,7 @@ proteinortho directory_fasta_files/*.faa -identity=40 -conn=0.3 -project=Results
 Rscript FAMeDB.R
 ```
 
+  Note: Results_FAMeDB.proteinortho.tsv file available in [Test with 50 random Ascomycota proteomes](https://github.com/SilvaPereiraLab/FAMeDB/tree/main/Test_output_files)
 
 ## Contributions and Support
 
