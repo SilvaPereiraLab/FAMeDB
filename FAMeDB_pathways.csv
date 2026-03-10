@@ -1,13 +1,13 @@
 Mechanism	Compound	Superpathway	Pathway	Protein_ID	Gene	central_pathway	code_compound	code_pathway
-Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	Q5BGJ9	AN0331	Yes	1235teHB	1235teHB-p
-Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	C8V4M5	AN10530	Yes	1235teHB	1235teHB-p
-Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	AN12484	AN12484	Yes	1235teHB	1235teHB-p
-Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	Q0CN79	ATEG_04855	Yes	1235teHB	1235teHB-p
-Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	Q0CN78	ATEG_04856	Yes	1235teHB	1235teHB-p
-Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	ATEG_08221-22_new	ATEG_08221-22_new	Yes	1235teHB	1235teHB-p
-Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	A0A316U3U2	BCV69DRAFT_314223	Yes	1235teHB	1235teHB-p
-Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	A0A316U2J1	BCV69DRAFT_284635	Yes	1235teHB	1235teHB-p
-Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	A0A316U7V3	BCV69DRAFT_284636	Yes	1235teHB	1235teHB-p
+Ae_Aerobic	"1,2,3,5-Tetrahydroxybenzene"	"1,2,3,5-Tetrahydroxybenzene pathway"	"1,2,3,5-Tetrahydroxybenzene pathway"	Q5BGJ9	AN0331	Yes	1235teHB	1235teHB-p
+Ae_Aerobic	"1,2,3,5-Tetrahydroxybenzene"	"1,2,3,5-Tetrahydroxybenzene pathway"	"1,2,3,5-Tetrahydroxybenzene pathway"	C8V4M5	AN10530	Yes	1235teHB	1235teHB-p
+Ae_Aerobic	"1,2,3,5-Tetrahydroxybenzene"	"1,2,3,5-Tetrahydroxybenzene pathway"	"1,2,3,5-Tetrahydroxybenzene pathway"	AN12484	AN12484	Yes	1235teHB	1235teHB-p
+Ae_Aerobic	"1,2,3,5-Tetrahydroxybenzene"	"1,2,3,5-Tetrahydroxybenzene pathway"	"1,2,3,5-Tetrahydroxybenzene pathway"	Q0CN79	ATEG_04855	Yes	1235teHB	1235teHB-p
+Ae_Aerobic	"1,2,3,5-Tetrahydroxybenzene"	"1,2,3,5-Tetrahydroxybenzene pathway"	"1,2,3,5-Tetrahydroxybenzene pathway"	Q0CN78	ATEG_04856	Yes	1235teHB	1235teHB-p
+Ae_Aerobic	"1,2,3,5-Tetrahydroxybenzene"	"1,2,3,5-Tetrahydroxybenzene pathway"	"1,2,3,5-Tetrahydroxybenzene pathway"	ATEG_08221-22_new	ATEG_08221-22_new	Yes	1235teHB	1235teHB-p
+Ae_Aerobic	"1,2,3,5-Tetrahydroxybenzene"	"1,2,3,5-Tetrahydroxybenzene pathway"	"1,2,3,5-Tetrahydroxybenzene pathway"	A0A316U3U2	BCV69DRAFT_314223	Yes	1235teHB	1235teHB-p
+Ae_Aerobic	"1,2,3,5-Tetrahydroxybenzene"	"1,2,3,5-Tetrahydroxybenzene pathway"	"1,2,3,5-Tetrahydroxybenzene pathway"	A0A316U2J1	BCV69DRAFT_284635	Yes	1235teHB	1235teHB-p
+Ae_Aerobic	"1,2,3,5-Tetrahydroxybenzene"	"1,2,3,5-Tetrahydroxybenzene pathway"	"1,2,3,5-Tetrahydroxybenzene pathway"	A0A316U7V3	BCV69DRAFT_284636	Yes	1235teHB	1235teHB-p
 Ae_Aerobic	3-Hydroxyanthranilate	3-Hydroxyanthranilate pathway	3-Hydroxyanthranilate pathway	ATEG_10009-10	3HAO	Yes	3HAO	3HAO-p
 Ae_Aerobic	3-Hydroxyanthranilate	3-Hydroxyanthranilate pathway	3-Hydroxyanthranilate pathway	Q0C8H4	ACMSD	Yes	3HAO	3HAO-p
 Ae_Aerobic	3-Hydroxyanthranilate	3-Hydroxyanthranilate pathway	3-Hydroxyanthranilate pathway	Q0C8H5	AMSDH	Yes	3HAO	3HAO-p
@@ -407,3 +407,4 @@ Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	P41735	COQ
 Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	P27697	COQ8_Yeast	No	COQ	COQ-p
 Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	Q92338	COQ8	No	COQ	COQ-p
 Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	Q05779	COQ9	No	COQ	COQ-p
+
