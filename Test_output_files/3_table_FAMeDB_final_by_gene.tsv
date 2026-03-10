@@ -1,0 +1,246 @@
+Mechanism	Compound	Superpathway	Pathway	Gene	A_Alectoria_fallacina.faa	A_Alternaria_viburni.faa	A_Annulohypoxylon_bovei.faa	A_Annulohypoxylon_nitens.faa	A_Apiospora_arundinis.faa	A_Apiospora_phragmitis.faa	A_Apiospora_rasikravindrae.faa	A_Aspergillus_aculeatinus.faa	A_Aspergillus_alliaceus.faa	A_Aspergillus_germanicus.faa	A_Aspergillus_hancockii.faa	A_Aspergillus_neoniger.faa	A_Aspergillus_tetrazonus.faa	A_Aspergillus_transmontanensis.faa	A_Aureobasidium_namibiae.faa	A_Bipolaris_victoriae.faa	A_Botryotinia_narcissicola.faa	A_Candida_dubliniensis.faa	A_Candida_verbasci.faa	A_Clathrospora_elynae.faa	A_Claviceps_spartinae.faa	A_Colletotrichum_incanum.faa	A_Colletotrichum_karsti.faa	A_Colletotrichum_spaethianum.faa	A_Cytospora_schulzeri.faa	A_Drechslerella_stenobrocha.faa	A_Halenospora_varia.faa	A_Hypoxylon_fuscum.faa	A_Komagataella_phaffii.faa	A_Lasiosphaeria_ovina.faa	A_Melanomma_pulvis.pyrius.faa	A_Monosporozyma_servazzii.faa	A_Morchella_sextelata.faa	A_Nemania_abortiva.faa	A_Neopestalotiopsis_clavispora.faa	A_Ophiocordyceps_australis.faa	A_Paraphoma_chrysanthemicola.faa	A_Penicillium_angulare.faa	A_Podospora_appendiculata.faa	A_Pseudoneurospora_amorphoporcata.faa	A_Pseudovirgaria_hyperparasitica.faa	A_Purpureocillium_lilacinum.faa	A_Seirophora_villosa.faa	A_Sporothrix_schenckii.faa	A_Sungouiella_intermedia.faa	A_Trapelia_coarctata.faa	A_Venturia_nashicola.faa	A_Xylaria_nigripes.faa	A_Xylaria_scruposa.faa	A_Xylographa_vitiligo.faa	zTest_HADEG_db.faa
+Ae_Aerobic	Catechol	3-Oxoadipate pathway catechol branch	3-Oxoadipate pathway catechol branch	A1Q1_06758	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Catechol	3-Oxoadipate pathway catechol branch	3-Oxoadipate pathway catechol branch	AaCHD2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	2	1	0	2	1	1	0	1	1	0	1	2	0	0	0	1	1	1	1	0	1	1	1	0	1	0	1	1	1	1	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	AAD14	0	0	0	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	0	2	2	2	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	1	0	1	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	AAD4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+Ae_Aerobic	3-Hydroxyanthranilate	3-Hydroxyanthranilate pathway	3-Hydroxyanthranilate pathway	ACMSD	0	0	0	0	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	ADH7	0	0	0	1	1	1	1	0	1	1	1	1	1	1	0	0	1	0	0	0	0	1	0	1	1	0	2	1	0	1	0	0	0	1	1	0	0	0	1	1	0	1	0	1	1	0	0	1	1	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Gentisate like-pathway peripheral pathways	AdhG	0	0	0	0	0	0	0	1	0	2	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid-like catabolism	AFUA_3G14790	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid-like catabolism	AFUA_3G14800	0	0	0	0	0	0	0	1	0	1	0	1	0	0	1	1	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid-like catabolism	AFUA_3G14810	0	1	0	0	1	0	1	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid-like catabolism	AFUA_3G14820	0	0	0	0	0	0	0	0	0	1	0	1	0	1	1	1	1	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid-like catabolism	AFUA_3G14830	0	0	0	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid-like catabolism	AFUA_3G14840	0	0	0	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Tannins and gallate metabolism	AgDC1	0	0	1	1	1	1	1	2	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	1	0	0	0	1	1	0	0	0	1	0	0	0	1	1	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Indole-3-pyruvic acid pathway	Ahd-2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	2	3	2	1	1	1	1	1	1	1	0	1	1	2	1	1	2	1	1	1	2	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Indole-3-pyruvic acid pathway	Ahd-3	0	1	0	1	1	0	2	1	1	2	1	2	2	1	0	0	1	0	0	0	0	0	1	0	2	1	3	1	0	1	2	0	0	1	2	1	1	1	1	1	0	0	0	0	0	1	0	0	1	0	0
+Ae_Aerobic	3-Hydroxyanthranilate	3-Hydroxyanthranilate pathway	3-Hydroxyanthranilate pathway	AMSDH	0	0	0	0	1	1	1	0	1	0	1	0	0	2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	AN0331	0	0	0	0	1	0	0	1	1	1	1	1	1	1	1	0	1	0	0	0	0	1	1	1	0	0	1	0	0	1	1	0	0	0	0	0	1	1	1	1	1	1	0	1	0	0	1	0	0	0	0
+Ae_Aerobic	Hydroxyquinol	3-Oxoadipate pathway hydroxyquinol branch	3-Oxoadipate pathway hydroxyquinol branch	AN0764	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	0	0	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	2	1	0	0	0	1	0	1	0	1	1	1	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	AN0876	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	2	1	1	1	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	An09g05130	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	3-Oxoadipate pathway protocatechuate branch peripheral	AN10952	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	0	0	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0
+Ae_Aerobic	3-Oxoadipate	3-Oxoadipate pathway	3-Oxoadipate pathway (common)	AN4009	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Ae_Aerobic	Catechol	3-Oxoadipate pathway catechol branch	3-Oxoadipate pathway catechol branch	AN4061	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	0	1	1	0	0	1	1	0	1	0	0	0	1	1	0	0
+Ae_Aerobic	Catechol	3-Oxoadipate pathway catechol branch	3-Oxoadipate pathway catechol branch	AN4531b	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1	0	1	1	0	0	1	1	0	1	0	0	0	0	0	0	0
+Ae_Aerobic	Hydroxyquinol	3-Oxoadipate pathway hydroxyquinol branch	3-Oxoadipate pathway hydroxyquinol branch	AN5178	0	0	1	1	0	0	0	1	0	1	1	1	1	1	2	1	0	0	0	0	0	0	1	1	0	0	2	1	0	0	0	0	1	1	1	0	1	1	1	0	0	0	0	1	0	1	0	0	0	1	0
+Ae_Aerobic	Protocatechuate	3-Oxoadipate pathway protocatechuate branch	3-Oxoadipate pathway protocatechuate branch	AN5232	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Phenols peripheral pathways	Phenols peripheral pathways	AN7418	1	1	1	1	1	1	1	0	1	0	1	1	0	1	0	0	1	2	0	0	0	1	1	1	1	0	1	1	0	0	1	0	0	1	2	1	1	1	1	1	0	0	1	1	1	1	1	1	1	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	AnuH	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Tannins and gallate metabolism	AO090023000047	0	0	1	1	0	0	0	2	0	1	1	2	2	1	0	0	1	0	0	0	0	1	1	1	0	0	1	1	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Tannins and gallate metabolism	AO090103000074	0	1	1	1	0	0	0	1	1	1	1	1	2	1	1	0	1	0	1	0	0	1	1	1	1	0	1	1	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Phenols peripheral pathways	Phenols peripheral pathways	AoCO4	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	0	0	0	1	0	1	1	2	1	0	1	0	0	0	1	0	0	0	1	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	AoMelB	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	AoMelO	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Shikimate pathway	Aro-2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Shikimate pathway	Aro-8	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	0	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Aromatic amino acids metabolism	ARO10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Shikimate pathway	ARO3	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	2	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Shikimate pathway	ARO7_Tripa	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	2	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Indole-3-pyruvic acid pathway	Aro8	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Aromatic amino acids metabolism	ARO8_Yeast	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Aromatic amino acids metabolism	ARO80	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Aromatic amino acids metabolism	ARO9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Shikimate pathway	AroF	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Shikimate pathway	AroM	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	AsL1	0	0	1	1	0	0	0	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	AtA	2	1	1	1	0	0	0	1	1	0	0	0	0	0	0	1	1	0	0	1	0	1	1	1	1	0	2	1	0	0	1	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	AtaPT	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	ATEG_04856	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	0	0	1	1	0	0	0	1	0	1	2	1	1	1	1	0	1	0	0	1	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	ATEG_05726b_new	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	0	1	1	0	0	1	1	0	1	1	1	1	1	1	0	1	0	0	1	0	1	1	0
+Ae_Aerobic	3-Hydroxyanthranilate	3-Hydroxyanthranilate pathway	3-Hydroxyanthranilate pathway	ATEG_05745	0	0	1	1	1	1	1	0	0	1	1	0	0	1	1	0	0	0	0	0	0	1	1	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	ATEG_07662	0	0	1	1	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	ATEG_08220	1	0	1	0	1	0	0	1	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	0	0	1	0	0	0	0	1	1	1	0	1	1	0	0	1	0	0	0	0	0	0	1	1	0	0
+Ae_Aerobic	1,2,3,5-Tetrahydroxybenzene	1,2,3,5-Tetrahydroxybenzene pathway	1,2,3,5-Tetrahydroxybenzene pathway	ATEG_08221-22_new	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	0	1	1	0	0	1	1	0	1	1	1	1	1	1	0	1	0	0	1	0	1	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	ATEG_08831	0	0	0	0	0	0	0	1	0	1	0	1	1	1	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	AtnJ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	AzaH	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	1	1	0	0	0	1	0	0	0	1	1	0	0
+Ae_Aerobic	3-Hydroxyanthranilate	3-Hydroxyanthranilate pathway	3-Hydroxyanthranilate pathway	BATDEDRAFT_30558	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1	0	0	1	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Gentisate like-pathway peripheral pathways	BCR39DRAFT_486220	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Gentisate like-pathway peripheral pathways	BCR39DRAFT_546366	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Tannins and gallate metabolism	BglA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	2	1	1	1	1	1	1	0	1	1	1	1	0	0
+Ae_Aerobic	3-Hydroxyanthranilate	3-Hydroxyanthranilate pathway	3-Hydroxyanthranilate pathway	BNA1_BATDEDRAFT_30049	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	BNA2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	BNA3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	BNA4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	BNA5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	3-Oxoadipate pathway protocatechuate branch peripheral	BzuA	1	1	1	1	1	1	1	0	0	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	0	0	1	1	1	1	2	1	1	1	1	1	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Indole-3-pyruvic acid pathway	Cbs-3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	2	1	1	2	1	1	1	1	1	3	1	1	1	1	1	1	1	1	1	1	1	1	1
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Indole-3-pyruvic acid pathway	Cfp	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	CgPPO-266	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	CgPPO-473	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0
+Ae_Aerobic	Protocatechuate	3-Oxoadipate pathway protocatechuate branch	3-Oxoadipate pathway protocatechuate branch	ChdA	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	ChlE	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	ChlE_Aspnc	0	0	0	0	1	0	1	1	0	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	CitB	0	0	1	1	0	0	0	1	1	1	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	1	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	CitC	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	CitD	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	CnsB	0	0	0	0	0	0	0	1	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	COQ1	1	1	1	1	1	1	1	0	0	0	1	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	COQ2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	COQ3	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	COQ4	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0
+Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	COQ5	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	COQ6	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	COQ7_Yeast	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0
+Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	COQ8	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Ubiquinone	Ubiquinone biosynthesis	Ubiquinone biosynthesis	COQ9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	CpaD	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Gentisate	Gentisate pathway	Gentisate pathway	CPAR2_704360	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	CprA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Methoxyhydroquinone pathway peripheral	Cs-AldhE	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Methoxyhydroquinone pathway peripheral	Cs-AldhH	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Methoxyhydroquinone pathway peripheral	Cs-AldhI	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Methoxyhydroquinone pathway peripheral	Cs-AldhJ	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Methoxyhydroquinone pathway peripheral	Cs-AldhK	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Gentisate	Gentisate pathway	Gentisate pathway	CtfG	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	3-Oxoadipate pathway catechol branch peripheral	DhbD_Aspnc	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	1	1	0	0	1	1	0	1	0	0	0	0	0	1	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	DMATS1Ff	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	DmaW	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	DodA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	DQD1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	DsdA	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	EchPT1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	FaeA_Aspor	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	FaeB-1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	FaeB-2	0	1	0	0	2	1	2	1	1	2	1	1	1	1	1	1	0	0	0	2	0	2	2	1	1	1	1	0	0	0	1	0	0	0	1	0	2	1	0	0	0	1	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	Homogentisate	Homogentisate pathway	Homogentisate pathway	FahA	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	2	1	0	1	1	0	1	1	1	2	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	Fdc1_ohbA1	0	0	0	0	0	0	0	2	1	2	1	2	1	1	0	1	0	1	1	0	0	1	1	1	1	0	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	FgaPT2	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Ae_Aerobic	Aromatic	Others	Others	FgPhm1	0	1	1	1	0	0	0	1	0	0	0	1	1	1	0	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	0	1	0	1	0	0	1	0	0	0	0
+Ae_Aerobic	CoA-dependent beta oxidative	Cinnamic acids CoA-dependent beta-oxidative pathway	Cinnamic acids CoA-dependent beta-oxidative pathway	FoxA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Gentisate	Gentisate pathway	Gentisate pathway	FPH1	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Gentisate	Gentisate pathway	Gentisate pathway	FphG	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	1	0	1	0	1	1	0	1	0	3	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Indole-3-pyruvic acid pathway	Gdc-3	2	2	1	1	1	1	1	1	0	0	1	1	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	2	1	0
+Ae_Aerobic	Gentisate	Gentisate pathway	Gentisate pathway	GdoG	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2	0	0	0	0	0	1	1	0	1	0	2	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Gentisate	Gentisate pathway	Gentisate pathway	GDX1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Hydroxyquinol	3-Oxoadipate pathway hydroxyquinol branch	3-Oxoadipate pathway hydroxyquinol branch	GsMAR1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Shikimate pathway	HARO7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Gentisate	Gentisate pathway	Gentisate pathway	HBT1	0	1	0	0	1	1	1	2	2	2	1	3	1	2	1	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	0	1	3	0	0	1	1	0	0	0	0	1	0	1	0	0
+Ae_Aerobic	CoA-dependent beta oxidative	Cinnamic acids CoA-dependent beta-oxidative pathway	Cinnamic acids CoA-dependent beta-oxidative pathway	HcsA	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	Hkm12	1	0	1	1	0	1	1	1	1	1	2	1	1	1	1	0	0	0	0	1	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	1	2	1	0	0	0	1	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	Hkm4	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	Hkm5	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	Hkm6	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	Hkm7	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	Hkm8	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Homogentisate	Homogentisate pathway	Homogentisate pathway	HmgA_Aspfu	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	2	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	1
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Homogentisate peripheral pathways	HmgX	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Homogentisate peripheral pathways	HppD	0	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	0	1	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0
+Ae_Aerobic	Hydroxyquinol	3-Oxoadipate pathway hydroxyquinol branch	3-Oxoadipate pathway hydroxyquinol branch	HQD1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Catechol	3-Oxoadipate pathway catechol branch	3-Oxoadipate pathway catechol branch	HQD2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	HxnM	1	2	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	0	2	0	3	2	2	0	0	3	1	0	0	2	0	1	2	1	1	2	1	0	0	0	1	0	0	0	1	1	1	1	1	0
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	HxnN	0	1	1	1	0	0	0	1	0	0	0	1	0	2	1	1	0	0	0	1	0	1	1	0	1	0	1	1	0	0	1	0	1	1	1	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	HxnP	0	1	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	1	1	0	1	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	HxnR	0	1	1	1	0	0	0	1	0	0	0	1	1	1	0	0	0	0	0	1	0	1	1	1	1	0	1	1	0	0	1	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	HxnS	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	HxnT	0	1	1	1	0	0	0	1	0	1	0	1	1	1	0	0	0	0	0	1	0	1	1	1	1	0	1	1	0	0	1	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	HxnW	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	1	1	0	1	0	0	0	1	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	HxnX	0	1	1	1	0	0	0	1	0	0	0	1	1	1	0	1	1	0	0	1	0	1	1	1	1	0	1	1	0	0	1	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	HxnY	1	1	1	1	1	0	0	1	1	1	1	2	0	1	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	0	1	0	1	0	1	0	1	1	1	0	0	0	0	0	0	0	1	0	1	0	0
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	HxnZ	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	IFPad	0	1	0	0	0	1	1	2	0	1	1	1	0	2	1	1	1	0	0	1	0	1	1	1	1	0	1	0	0	0	0	0	0	0	1	1	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	CoA-dependent beta oxidative	Cinnamic acids CoA-dependent beta-oxidative pathway	Cinnamic acids CoA-dependent beta-oxidative pathway	KatA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0
+Ae_Aerobic	3-Oxoadipate	3-Oxoadipate pathway	3-Oxoadipate pathway (common)	KctA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	0	1	0	1	0	1	1	1	1	1	0	1	1	0	1	1	0	1	0	0	1	0
+Ae_Aerobic	3-Oxoadipate	3-Oxoadipate pathway	3-Oxoadipate pathway (common)	KstA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	Kyn-1	0	1	0	0	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	1	1	1	1	1	1	0	1	0	0	1	1	0	0	0	1	1	1	1	1	1	1	1	0	1	0	0	1	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	Kyn-2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	0	1	0	1	1	1	0	1	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Indole-3-pyruvic acid pathway	Lao-2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	LenB	0	0	0	0	0	0	0	1	2	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	3-Oxoadipate pathway catechol branch peripheral	LeOMT1	0	0	1	1	1	1	0	1	1	2	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	1	1	1	0	0	0	0	0	1	1	1	0	1	0	0	0	2	0	1	0	0	0	1	1	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	3-Oxoadipate pathway catechol branch peripheral	LeOMT2	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	1	0	1	0	1	0	0	0	0	2	0	0	1	1	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	3-Oxoadipate pathway catechol branch peripheral	LeOMT3	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0
+Ae_Aerobic	Homogentisate	Homogentisate pathway	Homogentisate pathway	MaiA	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	0	0	0	0	0	1	1	1	1	0	0	1	0	0	0	1	0	0	0	1	1	0	1	0	0	0	1	0	1	0	1	0	0	0	0	1
+Ae_Aerobic	Catechol	3-Oxoadipate pathway catechol branch	3-Oxoadipate pathway catechol branch	MCI1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	MdpD	0	0	0	0	1	1	0	1	1	0	1	0	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Gentisate like-pathway peripheral pathways	MfsG	0	0	0	1	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Methoxyhidroquinone	Methoxyhydroquinone pathway	Methoxyhydroquinone pathway	MhdA	0	1	0	0	0	0	0	1	1	1	1	1	1	1	2	1	0	0	0	1	0	1	1	1	0	0	2	1	0	0	2	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+Ae_Aerobic	Catechol	3-Oxoadipate pathway catechol branch	3-Oxoadipate pathway catechol branch	MLI1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Gentisate peripheral pathways	MNX2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Indole-3-pyruvic acid pathway	Mox-2	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1	1	1	0	1	1	0	1	0	0	0	1	1	1	0	0	1	1	0	1	0	1	0	0	0	1	1	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	MtPPO-809	0	0	0	0	1	1	1	0	0	1	0	0	2	1	0	1	0	0	0	1	0	0	1	0	0	0	1	0	0	1	1	0	0	1	1	0	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Indole-3-pyruvic acid pathway	Naa-2	1	1	0	0	0	1	1	1	1	1	1	1	1	1	0	0	0	0	0	1	0	1	1	1	0	1	0	0	0	1	1	0	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	NcCar	0	0	1	1	2	2	2	1	0	1	0	0	1	1	0	0	0	0	0	0	1	1	1	1	1	0	0	1	0	0	0	0	0	1	2	1	0	1	1	1	0	1	0	0	0	0	0	1	1	0	0
+Ae_Aerobic	Protocatechuate	3-Oxoadipate pathway protocatechuate branch	3-Oxoadipate pathway protocatechuate branch	NCU04071	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	1	0	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	Nic-3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0
+Ae_Aerobic	Protocatechuate	3-Oxoadipate pathway protocatechuate branch	3-Oxoadipate pathway protocatechuate branch	NRRL3_00837	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	0	1	0	1	1	0	1	0	1	1	0	1	1	0	1	1	0	1	1	1	1	0	1	1	0	0	0	1	1	1	1	1	0
+Ae_Aerobic	Hydroxyquinol	3-Oxoadipate pathway hydroxyquinol branch	3-Oxoadipate pathway hydroxyquinol branch	NRRL3_05330	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Gentisate	Gentisate pathway	Gentisate pathway	O0I10_009696	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Catechol	3-Oxoadipate pathway catechol branch	3-Oxoadipate pathway catechol branch	OEL1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Methoxyhidroquinone	Methoxyhydroquinone pathway	Methoxyhydroquinone pathway	OmeA	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	OpS4	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0
+Ae_Aerobic	3-Oxoadipate	3-Oxoadipate pathway	3-Oxoadipate pathway (common)	OSC1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	P32953	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	PAD1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	PadA1	0	0	0	0	0	0	0	1	1	2	1	1	1	1	0	1	1	1	0	0	0	1	1	0	1	0	1	0	0	0	0	0	0	0	2	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	PadA2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	PadA3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	PcAAD1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Protocatechuate	3-Oxoadipate pathway protocatechuate branch	3-Oxoadipate pathway protocatechuate branch	PcaB3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Phenylalanine metabolism	PCD	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	0	0	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	0	1	1	0	1	0	1	0	0	1	1	1	0	0
+Ae_Aerobic	Methoxyhidroquinone	Methoxyhydroquinone pathway	Methoxyhydroquinone pathway	PcHGD1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0
+Ae_Aerobic	Methoxyhidroquinone	Methoxyhydroquinone pathway	Methoxyhydroquinone pathway	PcHGD2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Phenylacetates peripheral pathways	Homogentisate peripheral pathways	PdcA	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	2	2	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic	Phenylacetates peripheral pathways	Homogentisate peripheral pathways	PdcB	0	0	1	1	0	0	0	1	1	1	2	1	1	2	1	0	0	0	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	1	1	0	0	0	0	0	1	1	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Aromatic amino acids metabolism	PHA2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Phenylacetates peripheral pathways	Homogentisate peripheral pathways	PhacA	0	1	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	0	0	0	0	1	0	0	0	1	0	0	0	1	1	1	1	0	0	1	1	0	0	0	1	1	0	0	1	0
+Ae_Aerobic	Aromatic	Phenylacetates peripheral pathways	Homogentisate peripheral pathways	PhacB	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	1	1	1	1	0	2	1	0	0	1	0	0	1	2	1	1	1	0	0	0	1	0	0	0	0	0	1	1	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Phenylalanine metabolism	PhenA	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	1	1	0	0
+Ae_Aerobic	Aromatic	Phenols peripheral pathways	Phenols peripheral pathways	PHH2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	PigN	0	0	0	1	0	0	0	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Aromatic amino acids metabolism	PoPAL2	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	PpPPO-c2092	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Protocatechuate	3-Oxoadipate pathway protocatechuate branch	3-Oxoadipate pathway protocatechuate branch	PrcA	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	1	1	1	1	0	1	1	0	1	0	0	0	1	1	1	0	1	1	1	1	1	0	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	Q7SIC2	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	0	1	0	0	0	0	1	1	1	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	Qa-1s	0	2	0	0	1	1	1	1	1	1	0	1	1	1	0	2	0	0	0	1	0	1	1	1	1	0	0	0	0	0	1	0	0	1	1	0	2	1	1	1	0	1	0	1	0	0	1	0	1	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	Qa-3	0	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	0	0	1	0	1	1	1	1	0	1	0	0	0	1	0	1	1	1	0	1	1	1	1	1	1	0	1	1	0	1	0	1	1	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	Qa-4	0	1	1	1	0	1	0	0	0	0	0	0	1	0	1	1	1	0	0	1	0	1	1	1	1	0	0	1	0	1	1	0	0	1	1	0	1	0	1	1	1	1	0	1	0	1	1	1	1	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	QulI	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	1	0	1	1	0	1	0	1	0	0	1	1	0	0	1	1	0	1	1	1	0	1	1	0	1	0	0	1	0	1	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	QupA	0	1	0	0	1	1	1	1	1	1	1	1	1	1	2	1	2	2	1	1	0	1	1	1	1	0	2	0	0	0	1	0	0	1	1	0	1	1	1	1	1	1	0	1	2	0	1	0	1	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	QupB	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	QutA	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	QutE2	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	2	0	0	0	1	0	1	1	1	1	0	1	0	0	0	1	0	1	1	1	0	1	1	1	1	1	1	0	0	0	0	1	0	1	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid-like catabolism	QutE2_Aspfu	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	QutG	0	1	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	1	1	1	1	0	1	0	0	0	1	0	0	1	1	0	1	1	1	1	0	1	0	1	1	0	1	0	1	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	QutH	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	0	1	1	0	0	0	1	1	1	0	0	1	0	0	0	1	0	1	1	1	0	1	1	0	0	0	1	0	1	1	0	1	0	1	0	0
+Ae_Aerobic	Quinic acid	Benzoates peripheral pathways	Quinic acid catabolism	QutR_Aspnig	0	0	0	0	0	0	0	1	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Gentisate like-pathway peripheral pathways	Rco1_Botfb	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	1	0	0	0	0	1	1	1	0	0	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Gentisate like-pathway peripheral pathways	Rco1_Chagb	0	1	1	1	1	1	1	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	1	0	0	1	0	2	0	0	0	0	1	0	0	0	0	1	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Gentisate like-pathway peripheral pathways	SAPIO_CDS0604	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	1	1	0	1	0	2	0	0	0	1	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Gentisate	Gentisate pathway	Gentisate pathway	SAPIO_CDS0605	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Catechol	3-Oxoadipate pathway catechol branch	3-Oxoadipate pathway catechol branch	SAPIO_CDS6465	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Catechol	3-Oxoadipate pathway catechol branch	3-Oxoadipate pathway catechol branch	SAPIO_CDS8720	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	1	0	2	2	1	0	0	2	1	0	1	1	0	0	1	2	1	1	1	1	1	1	1	0	1	0	0	1	1	1	0	0
+Ae_Aerobic	Hydroxyquinol	3-Oxoadipate pathway hydroxyquinol branch	3-Oxoadipate pathway hydroxyquinol branch	SAPIO_CDS9498	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	Sdc	0	0	0	0	0	0	0	1	1	0	0	2	1	0	0	0	1	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Gentisate like-pathway peripheral pathways	SdoG	0	0	0	1	0	0	0	1	1	2	0	1	1	1	0	1	0	0	0	0	0	1	1	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Cinnamic acids peripheral pathways	SdrA	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	3-Oxoadipate pathway catechol branch peripheral	ShyA	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	1	1	1	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	SirD	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Tannins and gallate metabolism	TanR	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Tannins and gallate metabolism	TanX	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	0	1	1	0	1	0	0	0	1	1	0	0	1	1	1	0	0	0	1	0	0	0	1	1	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	TAT1	1	0	1	1	1	1	1	0	0	0	0	0	0	1	1	0	1	0	0	0	0	1	1	1	1	1	1	1	0	1	1	0	0	1	1	0	1	1	1	0	1	1	0	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	TAT2	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	2	3	1	1	1	1	1	1	1	0	1	0	1	2	1	1	1	0	1	1	1	1	2	2	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	TerD	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	1	0	1	2	1	1	0	2	1	0	1	2	0	0	1	1	0	1	1	1	1	1	1	0	0	0	0	1	1	1	1	0
+Ae_Aerobic	CoA-dependent beta oxidative	Cinnamic acids CoA-dependent beta-oxidative pathway	Cinnamic acids CoA-dependent beta-oxidative pathway	TheA	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	0	1	0	0	1	1	1	0	0
+Ae_Aerobic	CoA-dependent beta oxidative	Cinnamic acids CoA-dependent beta-oxidative pathway	Cinnamic acids CoA-dependent beta-oxidative pathway	TheB	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	CoA-dependent beta oxidative	Cinnamic acids CoA-dependent beta-oxidative pathway	Cinnamic acids CoA-dependent beta-oxidative pathway	TheC	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	0
+Ae_Aerobic	CoA-dependent beta oxidative	Cinnamic acids CoA-dependent beta-oxidative pathway	Cinnamic acids CoA-dependent beta-oxidative pathway	TheD	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	0	0
+Ae_Aerobic	Nicotinate	Nicotinate metabolism	Nicotinate metabolism	TNA1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	Trp-1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	Trp-3	1	0	1	1	1	1	1	1	1	1	2	1	1	2	1	0	1	0	0	0	1	1	1	1	1	1	1	1	0	1	0	0	1	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Aromatic amino acids metabolism	TRP2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Tryptophan metabolism	TRP5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	TtPPO	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	Benzoates peripheral pathways	TvAAD	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	3-Oxoadipate pathway hydroxyquinol branch peripheral	TvMNX1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Aromatic amino acids metabolism	TYR1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+Ae_Aerobic	Aromatic amino acids	Aromatic amino acids metabolism	Aromatic amino acids metabolism	TyrP	0	0	0	0	0	0	0	1	2	1	2	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Ae_Aerobic	Homogentisate	Homogentisate pathway	Homogentisate pathway	UHOR_02141	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Methoxyhydroquinone pathway peripheral	VaoA	0	1	0	0	0	0	0	1	1	1	0	0	0	1	1	0	1	0	0	0	0	2	2	2	1	0	2	0	0	0	0	0	0	0	2	0	1	0	1	1	0	0	0	0	0	0	1	0	0	0	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Methoxyhydroquinone pathway peripheral	VdhA	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	VdIsc1	0	1	0	0	0	0	0	1	0	1	2	1	1	1	1	1	1	0	0	1	0	1	2	1	0	0	1	0	1	0	2	0	0	0	0	0	1	1	0	0	1	0	0	2	0	1	0	0	1	1	0
+Ae_Aerobic	Aromatic	Cinnamic acids peripheral pathways	Methoxyhydroquinone pathway peripheral	VhyA	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ae_Aerobic	Aromatic	Benzoates peripheral pathways	3-Oxoadipate pathway protocatechuate branch peripheral	VibMO1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	XptA	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+Ae_Aerobic	Aromatic	Biosynthetic pathways	Biosynthetic pathways	XptB	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
