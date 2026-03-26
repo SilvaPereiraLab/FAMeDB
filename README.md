@@ -15,9 +15,9 @@ Aromatic compounds represent the second most abundant organic class after carboh
 ### Pipeline summary
 
 
-
-1. Run orthology analyis with [proteinortho](https://gitlab.com/paulklemm_PHD/proteinortho).
-2. Run Rscript to generate tables and plots.
+1. Retrieve single or multiple query proteomes.
+2. Run orthology analyis with [proteinortho](https://gitlab.com/paulklemm_PHD/proteinortho).
+3. Run Rscript to generate tables and plots.
 
 
 
@@ -28,6 +28,9 @@ Aromatic compounds represent the second most abundant organic class after carboh
 ```sh
 proteinortho directory_fasta_files/*.faa -identity=40 -conn=0.3 -project=Results_FAMeDB
 ```
+
+Note: For analyses involving 10 or fewer query proteomes, a -conn value of 0.2 may produce improved results.
+
 3. Run the *FAMeDB* script in your terminal or in [RStudio](https://posit.co/download/rstudio-desktop/#download):
 ```sh
 Rscript FAMeDB.R
@@ -44,7 +47,7 @@ If you would like to contribute to this database, please see the contributing [g
 ## Citations
 
 
-(Under peer-review submission process)
+Tiago M. Martins, Rita C. Carmo, Cristina Silva Pereira. 2026. FAMeDB: A Curated Database for the Analysis of Fungal Aromatic Compound Metabolism. Computational and Structural Biotechnology Journal. [doi: 10.34133/csbj.0049](https://doi.org/10.34133/csbj.0049)
 
 Tiago M. Martins, Rita C. Carmo, Cristina Silva Pereira. 2026. FAMeDB: A Curated Database for the Analysis of Fungal Aromatic Compound Metabolism. BioRxiv. [doi: 10.64898/2026.01.19.700319](https://doi.org/10.64898/2026.01.19.700319)
 
