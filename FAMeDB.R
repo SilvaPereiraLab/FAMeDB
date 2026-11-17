@@ -1,7 +1,7 @@
 # This script was adapted from HADEG.R available at https://github.com/jarojasva/HADEG
 
 
-# Set the path to the directory with the proteinortho file and the FAMeDB pathways table
+# Set the path to the directory with the proteinortho file, the FAMeDB pathways table and fasta file
 # setwd("Path_to_your_directory_files")
 
 # List of required packages
@@ -22,8 +22,8 @@ all_pathways <- read.csv("FAMeDB_pathways.csv", stringsAsFactors = FALSE)
 # Ensure that there are no leading or trailing whitespaces in the Protein_ID column
 all_pathways$Protein_ID <- trimws(all_pathways$Protein_ID)
 
-# Read the orthology results file with the first row as header
-df_ortho <- read.table("Results_FAMeDB.proteinortho.tsv", header = TRUE, stringsAsFactors = FALSE, sep = "\t", comment.char = "", fill = TRUE)
+# Read the orthology results file with the first row as header (check.names = FALSE preserves special characters like # and |)
+df_ortho <- read.table("Results_FAMeDB.proteinortho.tsv", header = TRUE, stringsAsFactors = FALSE, sep = "\t", comment.char = "", fill = TRUE, check.names = FALSE)
 
 # Rename the first three columns as ColumnA, ColumnB, and ColumnC
 colnames(df_ortho)[1:3] <- c("ColumnA", "ColumnB", "ColumnC")
@@ -120,8 +120,8 @@ df_counts_aggregated <- df_counts_merged %>%
 
 # Create a summary data frame for all_pathways (not used as all entries are distinct - gene names are all different)
 #all_pathways_summary <- all_pathways %>%
-  #select(-Protein_ID) %>%
-  #distinct()
+#select(-Protein_ID) %>%
+#distinct()
 
 # Merge df_counts_aggregated with all_pathways_summary based on Gene
 df_counts_aggregated_2 <- merge(df_counts_aggregated, all_pathways, by = "Gene", all.x = TRUE)
@@ -227,8 +227,8 @@ for (compound in unique_compounds) {
   # Create the file name with the desired format
   file_name <- paste0("4_", gsub("/", "_", compound), ".tsv")
   
-  # Read the specific TSV file for the current compound
-  compound_df <- read.table(file_name, header = TRUE, stringsAsFactors = FALSE, sep = "\t", comment.char = "", fill = TRUE)
+  # Read the specific TSV file for the current compound (check.names = FALSE preserves special characters)
+  compound_df <- read.table(file_name, header = TRUE, stringsAsFactors = FALSE, sep = "\t", comment.char = "", fill = TRUE, check.names = FALSE)
   
   # Add the DataFrame to the list
   df_list[[file_name]] <- compound_df
@@ -262,6 +262,13 @@ combined_df$group <- sub(
   x = combined_df$group
 )
 
+# Remove the suffix ".faa" from the Genome column for heatmaps
+combined_df$Genome <- sub(
+  pattern = "(.*)\\.faa$",
+  replacement = "\\1",
+  x = combined_df$Genome
+)
+
 # Define the color names and legend titles
 colors_heatmap <- c("snow", "#1F988BFF", "#440154FF") # You can add more colors as needed
 
@@ -288,7 +295,7 @@ dev.off()
 
 # Define the mapping vectors of central compounds names
 central_compounds <- c("1,2,3,5‐Tetrahydroxybenzene", "3-Hydroxyanthranilate", "Catechol", "Protocatechuate",
-                "Hydroxyquinol", "Gentisate", "Homogentisate", "Methoxyhidroquinone")
+                       "Hydroxyquinol", "Gentisate", "Homogentisate", "Methoxyhidroquinone")
 cc_abbreviations <- c("1235TeHB", "3HA", "CAT", "PTC", "HQ", "GT", "HGT", "MeH2Q")
 
 # Create vector for renaming
@@ -509,10 +516,8 @@ ggplot(df_counts_aggregated_by_pathway_3_melted, aes(x = Genome, y = Pathway, si
     axis.title.y = element_text(size = 16, face = "bold"),
     legend.title = element_text(size = 14),
     legend.text = element_text(size = 14),
+    legend.box.margin = margin(t = 150, r = 0, b = 0, l = 0),
     strip.text.x = element_text(size = 12, face = "bold")
   ) +
   guides(fill = guide_legend(override.aes = list(size = 6))) # Adjust the size value as needed for legend of compounds
 dev.off()
-
-
-
