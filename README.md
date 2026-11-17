@@ -4,6 +4,8 @@
 
 ⚠️ FAMeDB will be updated on a regular basis ⚠️
 
+:fire: November 2026 latest update (v1.2.0) increases database entries from 408 to 566. :fire:
+
 ### Introduction
 
 
